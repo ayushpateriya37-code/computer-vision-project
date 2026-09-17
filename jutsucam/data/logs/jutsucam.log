@@ -1,0 +1,51 @@
+2026-09-04 22:47:00 | INFO     | jutsucam.session_logger | Session started: a79f33b5 -> C:\Users\mehta\AppData\Local\Temp\pytest-of-mehta\pytest-0\test_log_event_creates_file_wi0\events.csv
+2026-09-04 22:47:00 | INFO     | jutsucam.session_logger | Session started: 4c8e8d75 -> C:\Users\mehta\AppData\Local\Temp\pytest-of-mehta\pytest-0\test_log_event_appends_rows0\events.csv
+2026-09-04 22:47:00 | INFO     | jutsucam.session_logger | Jutsu triggered: Rasengan (rasengan)
+2026-09-04 22:47:00 | INFO     | jutsucam.session_logger | Jutsu triggered: Chidori (chidori)
+2026-09-04 22:47:00 | INFO     | jutsucam.session_logger | Session started: a30cd2ef -> C:\Users\mehta\AppData\Local\Temp\pytest-of-mehta\pytest-0\test_read_all_events_on_missin0\does_not_exist.csv
+2026-09-04 22:47:00 | INFO     | jutsucam.session_logger | Session started: 9be59c73 -> C:\Users\mehta\AppData\Local\Temp\pytest-of-mehta\pytest-0\test_display_name_resolved_fro0\events.csv
+2026-09-04 22:47:00 | INFO     | jutsucam.session_logger | Jutsu triggered: Shadow Clone Jutsu (shadow_clone)
+2026-09-04 22:47:37 | INFO     | jutsucam.main | Starting session | source=0 headless=False
+2026-09-04 22:47:38 | INFO     | jutsucam.hand_tracker | HandTracker initialised (max_num_hands=2, det_conf=0.6, track_conf=0.5)
+2026-09-04 22:47:38 | INFO     | jutsucam.session_logger | Session started: dc9e21aa -> C:\Users\mehta\OneDrive\Documents\jutsucam_project\jutsucam\data\logs\jutsu_session_log.csv
+2026-09-04 22:47:40 | INFO     | jutsucam.session_logger | Jutsu triggered: Chidori (chidori)
+2026-09-04 22:47:42 | INFO     | jutsucam.session_logger | Jutsu triggered: Rasengan (rasengan)
+2026-09-04 22:47:45 | INFO     | jutsucam.session_logger | Jutsu triggered: Rasengan (rasengan)
+2026-09-04 22:47:49 | INFO     | jutsucam.session_logger | Jutsu triggered: Earth Release: Rising Rock Pillar (earth_release)
+2026-09-04 22:47:54 | INFO     | jutsucam.session_logger | Jutsu triggered: Chidori (chidori)
+2026-09-04 22:47:56 | INFO     | jutsucam.session_logger | Jutsu triggered: Rasengan (rasengan)
+2026-09-04 22:47:58 | INFO     | jutsucam.session_logger | Jutsu triggered: Earth Release: Rising Rock Pillar (earth_release)
+2026-09-04 22:47:59 | INFO     | jutsucam.session_logger | Jutsu triggered: Fire Dragon Jutsu (fire_dragon)
+2026-09-04 22:48:01 | INFO     | jutsucam.session_logger | Jutsu triggered: Earth Release: Rising Rock Pillar (earth_release)
+2026-09-04 22:48:09 | INFO     | jutsucam.session_logger | Jutsu triggered: Chidori (chidori)
+2026-09-04 22:48:12 | INFO     | jutsucam.session_logger | Jutsu triggered: Rasengan (rasengan)
+2026-09-04 22:48:16 | INFO     | jutsucam.session_logger | Jutsu triggered: Chidori (chidori)
+2026-09-04 22:48:18 | INFO     | jutsucam.session_logger | Jutsu triggered: Rasengan (rasengan)
+2026-09-04 22:48:19 | INFO     | jutsucam.session_logger | Jutsu triggered: Fire Dragon Jutsu (fire_dragon)
+2026-09-04 22:48:23 | INFO     | jutsucam.session_logger | Jutsu triggered: Fire Dragon Jutsu (fire_dragon)
+2026-09-04 22:48:25 | INFO     | jutsucam.session_logger | Jutsu triggered: Fire Dragon Jutsu (fire_dragon)
+2026-09-04 22:48:28 | INFO     | jutsucam.session_logger | Jutsu triggered: Fire Dragon Jutsu (fire_dragon)
+2026-09-04 22:48:33 | INFO     | jutsucam.session_logger | Jutsu triggered: Water Dragon Jutsu (water_dragon)
+2026-09-04 22:48:35 | INFO     | jutsucam.session_logger | Jutsu triggered: Water Dragon Jutsu (water_dragon)
+2026-09-04 22:48:38 | INFO     | jutsucam.session_logger | Jutsu triggered: Fire Dragon Jutsu (fire_dragon)
+2026-09-04 22:48:44 | INFO     | jutsucam.session_logger | Jutsu triggered: Earth Release: Rising Rock Pillar (earth_release)
+2026-09-04 22:48:48 | INFO     | jutsucam.session_logger | Jutsu triggered: Chidori (chidori)
+2026-09-04 22:48:55 | INFO     | jutsucam.session_logger | Jutsu triggered: Chidori (chidori)
+2026-09-04 22:48:58 | INFO     | jutsucam.session_logger | Jutsu triggered: Earth Release: Rising Rock Pillar (earth_release)
+2026-09-04 22:48:58 | INFO     | jutsucam.session_logger | Jutsu triggered: Chidori (chidori)
+2026-09-04 22:49:02 | INFO     | jutsucam.session_logger | Jutsu triggered: Chidori (chidori)
+2026-09-04 22:49:03 | INFO     | jutsucam.session_logger | Jutsu triggered: Earth Release: Rising Rock Pillar (earth_release)
+2026-09-04 22:49:06 | INFO     | jutsucam.session_logger | Jutsu triggered: Chidori (chidori)
+2026-09-04 22:49:08 | INFO     | jutsucam.session_logger | Jutsu triggered: Earth Release: Rising Rock Pillar (earth_release)
+2026-09-04 22:49:12 | INFO     | jutsucam.session_logger | Jutsu triggered: Chidori (chidori)
+2026-09-04 22:49:16 | INFO     | jutsucam.session_logger | Jutsu triggered: Chidori (chidori)
+2026-09-04 22:49:17 | INFO     | jutsucam.session_logger | Jutsu triggered: Earth Release: Rising Rock Pillar (earth_release)
+2026-09-04 22:49:21 | INFO     | jutsucam.session_logger | Jutsu triggered: Chidori (chidori)
+2026-09-04 22:49:26 | INFO     | jutsucam.session_logger | Jutsu triggered: Chidori (chidori)
+2026-09-04 22:49:31 | INFO     | jutsucam.session_logger | Jutsu triggered: Chidori (chidori)
+2026-09-04 22:49:37 | INFO     | jutsucam.session_logger | Jutsu triggered: Earth Release: Rising Rock Pillar (earth_release)
+2026-09-04 22:49:39 | INFO     | jutsucam.session_logger | Jutsu triggered: Chidori (chidori)
+2026-09-04 22:49:44 | INFO     | jutsucam.main | Quit key pressed by user.
+2026-09-04 22:49:44 | INFO     | jutsucam.main | Session ended. Total frames processed: 2397
+2026-09-04 22:50:18 | INFO     | jutsucam.session_logger | Session started: 5d3f0a49 -> C:\Users\mehta\OneDrive\Documents\jutsucam_project\jutsucam\data\logs\jutsu_session_log.csv
+2026-09-04 22:50:18 | INFO     | jutsucam.report_generator | Report generated: 37 events across 1 sessions
