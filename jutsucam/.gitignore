@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+.venv/
+venv/
+
+# Runtime-generated data (regenerated automatically when you run the app)
+data/logs/jutsu_session_log.csv
+data/logs/jutsucam.log
+data/logs/session_output.mp4
+data/reports/*.csv
+data/reports/*.png
+
+# OS / editor cruft
+.DS_Store
+.vscode/
+*.swp
